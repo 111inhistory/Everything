@@ -1,0 +1,1 @@
+We all say, the first impression is important for one to judge others. Having a good personal image can leave a good impression on others and therefore let everything go smooth. It may sound unfamiliar when we talk about 

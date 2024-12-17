@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "fc32a67d962f82e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c036101c6cb5e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38040a30ee63b586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数/向量空间.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "向量空间"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a93e42292431f76",
+    "type": "split",
+    "children": [
+      {
+        "id": "5290e7ce0ae8df65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f75a7b2b9d9c2096",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b930be3bc3ee2407",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#功绩",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0b51084c057e5aa6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "423b28f459fdbf66",
+    "type": "split",
+    "children": [
+      {
+        "id": "2866ec9653883c8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16961b1f794d1fec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "线性代数/向量空间.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "向量空间 的反向链接列表"
+            }
+          },
+          {
+            "id": "18af29a670460ca3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "线性代数/向量空间.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "向量空间 的出链列表"
+            }
+          },
+          {
+            "id": "44c9e7624c0b24bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "71db705aef4e880b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "线性代数/向量空间.md"
+              },
+              "icon": "lucide-list",
+              "title": "向量空间 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f75a7b2b9d9c2096",
+  "lastOpenFiles": [
+    "导出用",
+    "Assets/export.svg",
+    "Assets/Pasted image 20241124153748.jpg",
+    "线性代数/向量空间.md",
+    "Assets",
+    "Assets/2024-12-16 23_55 Microsoft Lens.jpeg",
+    "太阳能和绿色能源前景_Presentation/太阳能与绿色能源的未来.md",
+    "太阳能和绿色能源前景_Presentation",
+    "Assets/Picsew_20241215153529.png",
+    "线性代数",
+    "导出用/P2/P2.md",
+    "导出用/P2/image-1.png",
+    "导出用/exam24-11-15/reflection.md",
+    "导出用/半导体研究工程师职业发展报告.md",
+    "导出用/P14.md",
+    "导出用/Effective Ways to Improve Your Personal Image.md",
+    "导出用/P14/P14.md",
+    "Assets/image-1.png",
+    "Assets/image.png",
+    "段一士_政治作业/资料.md",
+    "导出用/P14/image.png",
+    "导出用/P14",
+    "Assets/Pasted image 20241124154451.jpg",
+    "Assets/Pasted image 20241124154442.jpg",
+    "段一士_政治作业",
+    "导出用/exam24-11-15/题目.md",
+    "导出用/exam24-11-15",
+    "导出用/P2",
+    "未命名.canvas",
+    "Welcome.md"
+  ]
+}

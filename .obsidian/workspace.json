@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "byModifiedTimeReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -167,14 +167,15 @@
   },
   "active": "f75a7b2b9d9c2096",
   "lastOpenFiles": [
+    "Project",
     "导出用",
     "Assets/export.svg",
     "Assets/Pasted image 20241124153748.jpg",
     "线性代数/向量空间.md",
     "Assets",
     "Assets/2024-12-16 23_55 Microsoft Lens.jpeg",
-    "太阳能和绿色能源前景_Presentation/太阳能与绿色能源的未来.md",
-    "太阳能和绿色能源前景_Presentation",
+    "Project/太阳能和绿色能源前景_Presentation/太阳能与绿色能源的未来.md",
+    "Project/太阳能和绿色能源前景_Presentation",
     "Assets/Picsew_20241215153529.png",
     "线性代数",
     "导出用/P2/P2.md",
@@ -186,12 +187,12 @@
     "导出用/P14/P14.md",
     "Assets/image-1.png",
     "Assets/image.png",
-    "段一士_政治作业/资料.md",
+    "Project/段一士_政治作业/资料.md",
     "导出用/P14/image.png",
     "导出用/P14",
     "Assets/Pasted image 20241124154451.jpg",
     "Assets/Pasted image 20241124154442.jpg",
-    "段一士_政治作业",
+    "Project/段一士_政治作业",
     "导出用/exam24-11-15/题目.md",
     "导出用/exam24-11-15",
     "导出用/P2",
